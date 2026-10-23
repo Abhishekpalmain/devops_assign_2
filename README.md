@@ -27,6 +27,7 @@ Serve the `dist/` folder with any static web server, for example `python -m http
 - [Agile backlog and acceptance criteria](docs/AGILE_BACKLOG.md)
 - [Git branching and collaboration workflow](docs/GIT_WORKFLOW.md)
 - [CI/CD pipeline and Pages setup](docs/CI_CD.md)
+- [Repository-specific Pages deployment setup](docs/DEPLOYMENT.md)
 - Jira board: create the user stories from the backlog in To Do / In Progress / Done.
 - GitHub source management: use short-lived feature branches and merge reviewed changes into `main`; see [Git workflow](docs/GIT_WORKFLOW.md).
 - GitHub Actions: see the **Campus Attendance Assignment 2 CI/CD** workflow.
