@@ -1,0 +1,15 @@
+{
+  "name": "campus-attendance-assignment-2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Assignment 2 continuation of the Campus Attendance Portal with Git and GitHub Actions CI/CD",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "clean": "node scripts/clean.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
